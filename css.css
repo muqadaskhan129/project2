@@ -63,4 +63,10 @@ section{
 }
 
 
-
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #222;
+  color: #fff;
+  margin-top: 2rem;
+}
